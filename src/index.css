@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.inputField{
+  text-align: center;
+  height:auto;
+  margin: 50px auto ;
+  font-family: 'cursive';
+  
+  border-radius: 50px;
+}
+.SearchResult{
+  width :50%;
+  margin: 0px auto;
+  height: auto;  
+  text-align: center;
+}
